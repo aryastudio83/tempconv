@@ -1,4 +1,4 @@
-package github.com/aryastudio83/tempconv
+package tempconv
 
 import "fmt"
 
