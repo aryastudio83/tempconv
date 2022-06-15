@@ -9,3 +9,6 @@ func Test() string {
 }
 
 
+func GetTest() {
+	fmt.Println(Test())
+}
